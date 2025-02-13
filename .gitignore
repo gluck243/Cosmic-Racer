@@ -1,4 +1,5 @@
 .DS_Store
+README.md.meta
 BoosterPad.cs.meta
 Checkpoints.cs.meta
 GameController.cs.meta
@@ -8,3 +9,9 @@ PauseMenu.cs.meta
 PlayerCamera.cs.meta
 PlayerControls.cs.meta
 RaceController.cs.meta
+PromoMaterial.meta
+PromoMaterial/CosmicRacer_Screenshot1.png.meta
+PromoMaterial/CosmicRacer_Screenshot2.png.meta
+PromoMaterial/CosmicRacer_Screenshot3.png.meta
+PromoMaterial/SpaceRacerLogo.jpg.meta
+LICENSE.meta
