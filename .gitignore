@@ -1,0 +1,10 @@
+.DS_Store
+BoosterPad.cs.meta
+Checkpoints.cs.meta
+GameController.cs.meta
+LoadingScreen.cs.meta
+LoadingScreen.cs
+PauseMenu.cs.meta
+PlayerCamera.cs.meta
+PlayerControls.cs.meta
+RaceController.cs.meta
